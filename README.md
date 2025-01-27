@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web amd project 
 - 📫 How to reach me ...
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love coding while listening to music 🎧 and exploring new frameworks!
 
 <!---
 geethma-gamage/geethma-gamage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
