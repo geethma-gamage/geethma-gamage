@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Geethma Shehani Gamage
-- 👀 I’m interested in web development 
+- 👀 I’m interested in web development , App Development 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on Web amd project 
 - 📫 How to reach me ...
